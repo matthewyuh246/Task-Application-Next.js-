@@ -24,4 +24,4 @@ export const GET = async (
     }
 };
 
-export const dunamic = 'force-dynamic';
+export const dynamic = 'force-dynamic';
